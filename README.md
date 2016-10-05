@@ -1,2 +1,3 @@
 # DabCoin
-Big Fat Dab coins. 
+
+Yeah if you're using these, the world has become a terrible terrible place
